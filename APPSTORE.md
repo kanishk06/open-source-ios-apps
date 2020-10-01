@@ -3071,7 +3071,7 @@ https://www.xamarin.com/ — [back to top](#readme)
 [back to top](#readme) 
  
 
-## Thanks
+## Thanks for supporting
 
 This list was inspired by [awesome-ios](https://github.com/vsouza/awesome-ios) and [awesome-swift](https://github.com/matteocrippa/awesome-swift). Thanks to all the [contributors](https://github.com/dkhamsing/open-source-ios-apps/graphs/contributors) 🎉 
 
